@@ -1,0 +1,4 @@
+﻿  CNodeDynamic.cpp
+C:\Users\barte\source\repos\Techniki_Efektywnego_programowania_3\Techniki_Efektywnego_programowania_3\CNodeDynamic.cpp(62,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\barte\source\repos\Techniki_Efektywnego_programowania_3\Techniki_Efektywnego_programowania_3\CNodeDynamic.cpp(79,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Techniki_Efektywnego_programowania_3.vcxproj -> C:\Users\barte\source\repos\Techniki_Efektywnego_programowania_3\Debug\Techniki_Efektywnego_programowania_3.exe
