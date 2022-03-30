@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Techniki_efektywnego_programowania_4\CNodeDynamic.h(84,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Techniki_efektywnego_programowania_4\CNodeDynamic.h(82): message : podczas kompilowania funkcji składowej „void CNodeDynamic<T>::vPrintAllBelow(void)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Techniki_efektywnego_programowania_4\CTreeDynamic.h(38): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void CNodeDynamic<T>::vPrintAllBelow(void)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Techniki_efektywnego_programowania_4\CTreeDynamic.h(48): message : podczas kompilowania funkcji składowej „CTreeDynamic<int>::CTreeDynamic(T)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Techniki_efektywnego_programowania_4\main.cpp(35): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CTreeDynamic<int>::CTreeDynamic(T)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Techniki_efektywnego_programowania_4\main.cpp(35): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CTreeDynamic<int>” klasy klasa szablon
+C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Techniki_efektywnego_programowania_4\CNodeDynamic.h(102,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Techniki_efektywnego_programowania_4\CNodeDynamic.h(91): message : podczas kompilowania funkcji składowej „bool CNodeDynamic<T>::moveSubtree(CNodeDynamic<T> *,CNodeDynamic<T> *)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Techniki_efektywnego_programowania_4\CTreeDynamic.h(44): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „bool CNodeDynamic<T>::moveSubtree(CNodeDynamic<T> *,CNodeDynamic<T> *)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+  Techniki_efektywnego_programowania_4.vcxproj -> C:\Users\barte\source\repos\Techniki_efektywnego_programowania_4\Debug\Techniki_efektywnego_programowania_4.exe
